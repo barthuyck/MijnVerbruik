@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MijnVerbruik</string>
+    <string name="action_settings">Settings</string>
+    <string name="login_settings">Log in</string>
+    <string name="logout_settings">Log uit</string>
+    <string name="btn_vorig"></string>
+    <string name="btn_volgend"></string>
+    <string name="tv_verbruik">Verbruik: 0 l</string>
+    <string name="app_waterverbruik">Water verbruikt: </string>
+    <string name="app_updatetijdgrafiek">Laatst update grafiek: </string>
+    <string name="toast_loggedin"> is ingelogd</string>
+    <string name="toast_notloggedin">Er is geen Gebruiker ingelogd</string>
+    <string name="grafiek_label">Waterverbruik (liter/15min)</string>
+    <string name="grafiek_titel">Waterverbruik</string>
+    <string name="tab_dag">Dag</string>
+    <string name="tab_maand">Maand</string>
+    <string name="tab_jaar">Jaar</string>
+</resources>
